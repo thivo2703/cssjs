@@ -118,7 +118,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://dailyvespachinhhang.blogspot.com/' target='_blank'><img src='http://tragopvespa.com/wp-content/uploads/2015/04/muatragop.png' width='500px'/><br/>xe vespa gia re</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://dailyvespachinhhang.blogspot.com/' target='_blank'><img src='http://tragopvespa.com/wp-content/uploads/2015/04/muatragop.png' width='500px'/><br/>xe vespa gia re</a>. vespa chính hãng giá tốt. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
